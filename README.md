@@ -14,6 +14,6 @@ v.2.0
 - [x] obsługa powyżej 120 lat (62742)
 
 1. Po uruchomieniu użytkownik proszony jest o wiek
-2. użytkownik jest proszony o wybranie regionu
-3. użytkownik podaje płeć
-4. użytkownik dostaje wiadomość zwrotną
+2. Użytkownik jest proszony o wybranie regionu
+3. Użytkownik podaje płeć
+4. Użytkownik dostaje wiadomość zwrotną
