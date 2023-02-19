@@ -8,7 +8,7 @@
 
 
 ## O aplikacji
-Aplikacja po wpisaniu wieku, płci oraz wskazaniu regionu wybiera dla użytkownika odpowiednią ofertę lub nie zezwala na wejście do aplikacji.
+Aplikacja po wpisaniu wieku, płci oraz wskazaniu regionu wybiera dla użytkownika odpowiednią ofertę lub nie zezwala na wejście do niej.
 
 ## Funkcjonalności aplikacji w wersji
 
