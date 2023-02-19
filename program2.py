@@ -1,6 +1,7 @@
 print ("Witaj w naszym sklepie. Podaj potrzebne dane, aby moc korzystac ze sklepu.")
 
 region = input("Podaj region (EUR/USA)")
+plec = str(input("podaj swoja plec: "))
 
 region = str(region.upper())
 
@@ -38,4 +39,8 @@ elif region == "USA":
         exit("Jestes za mlody/a na alkohol. Zapraszamy na disney.com")
 else: 
     exit ("Nie sprzedajemy w innych regionach")
+    
+if wiek > 30 and plec == "kobieta" or "K" or "F" or "k" or "f":
+    print(" +30 to aperol spritz pierwszy gratis!")
+    print("mozesz kupowac alkohol")
 
