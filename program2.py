@@ -7,6 +7,8 @@ wiek=int(wiek)
 if wiek>=18 and wiek<=40:
     print("witamy w apce. mozesz kupowac u nas alko")
 elif wiek>40:
+    if wiek > 120:
+        exit('Cos krecisz z tym wiekiem. Zamykam apke')
     print("witamy w apce. mozesz kupowac u nas alkohol")
     print("korzystaj z produktow z umiarem")
 else:
