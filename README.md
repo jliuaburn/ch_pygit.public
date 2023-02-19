@@ -2,15 +2,15 @@
 
 ## Spis treści
 * [Informacje ogólne](#O-aplikacji)
-* [Funkcjonalności aplikacji](#Funkcjonalności-aplikacji-w-wersji:)
+* [Funkcjonalności aplikacji](#Funkcjonalności-aplikacji-w-wersji)
 * [Status projektu](#Status-projektu)
-* [Możliwe ulepszenia](#Możliwe-ulepszenia:)
+* [Możliwe ulepszenia](#Możliwe-ulepszenia)
 
 
 ## O aplikacji
 Aplikacja po wpisaniu wieku, płci oraz wskazaniu regionu wybiera dla użytkownika odpowiednią ofertę lub nie zezwala na wejście do aplikacji.
 
-## Funkcjonalności aplikacji w wersji:
+## Funkcjonalności aplikacji w wersji
 
 v.1.0
 - [x] obsługa osób dorosłych
@@ -24,7 +24,7 @@ v.2.0
 ## Status projektu
 Projekt jest w trakcie pracy.
 
-## Możliwe ulepszenia:
+## Możliwe ulepszenia
 - Dodanie wyboru prefernecji smakowych, następnie wyświetlenie dopasowanych pod użytkownika produktów.
 - Dodatkowe promocje dla poszczególnych grup wiekowych.
 
